@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="assets/profile-weizhou.jpg" width="150" alt="Weizhou Wang">
-</p>
+</p> -->
 
 # Weizhou Wang
 
