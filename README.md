@@ -10,13 +10,13 @@ My research lies at the intersection of statistical mechanics, molecular simulat
 
 ## Selected Research Code
 
-- [GenerativeGibbsSamplingforPathIntegral](https://github.com/weizhouwangw/GenerativeGibbsSamplingforPathIntegral)  
+- [GG-PI: Generative Gibbs Sampling for Path Integrals](https://github.com/weizhouwangw/GenerativeGibbsSamplingforPathIntegral)  
   Code for generative Gibbs sampling for path-integral quantum statistics.  
   Paper: [arXiv:2601.20228](https://arxiv.org/abs/2601.20228)
 
-- [GG-PA](https://github.com/weizhouwangw/GG-PA)  
+- [GG-PA: Generative Gibbs for Physics-Aware Sampling](https://github.com/weizhouwangw/GG-PA)  
   Code for composing diffusion priors with explicit physical context via generative Gibbs sampling.  
-  Paper: [arXiv:2605.10642](https://arxiv.org/abs/2605.10642)
+  Paper: [arXiv:2605.10642](https://arxiv.org/abs/2605.10642) (NeurIPS 2026) · Talk: [MSR New England](https://www.microsoft.com/en-us/research/video/generative-gibbs-sampling-composing-generative-models-with-explicit-physical-context/)
 
 ## Links
 
